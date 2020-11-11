@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Experiment: Offsetting 
+## Thank you 
 
-You can use the [editor on GitHub](https://github.com/Vanessa-project/Experiment_Prolific/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for participating in the study by Clara Ulmer from the University of Ulm and Vanessa Schoeller from the University of Regensburg.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Donation receipt
 
-1. Numbered
-2. List
+Below you can see the donation receipt.
 
-**Bold** and _Italic_ and `Code` text
+![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/monetary-donation.jpg)
 
-[Link](url) and ![Image](src)
-```
+## Calculation of the donation amount
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here we aim to explain how the donation amount is calculated.
+x paticipants took part in the experiment. 
+y subjects decided to not buy the product, which resulted in a average donation of ... €. 
+Therefore, we as the experimenter donated ... € to [the compensators](https://www.compensators.org/), which you can also see in the donation receipt above.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vanessa-project/Experiment_Prolific/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
