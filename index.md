@@ -5,7 +5,7 @@ Thank you for participating in the study by Clara Ulmer from the University of U
 
 
 
-
+![](https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg)
 ![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg)
 
 
