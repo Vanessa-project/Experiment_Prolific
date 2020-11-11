@@ -20,6 +20,6 @@ Below you can see the donation receipt.
 Here we aim to explain how the donation amount is calculated.
 x paticipants took part in the experiment. 
 y subjects decided to not buy the product, which resulted in a average donation of ... €. 
-Therefore, we as the experimenter donated ... € to [the compensators](https://www.compensators.org/), which you can also see in the donation receipt above.
+Therefore, we as the experimenter donated ... € to [compensators](https://www.compensators.org/), which you can also see in the donation receipt above.
 
 
