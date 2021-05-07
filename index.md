@@ -23,7 +23,7 @@ Below you can see the donation receipt from [Compensators*](https://www.compensa
   <li>600 paticipants took part in the study.</li>
   <li>XX individuals decided to not buy the product.</li>
   <li>For every participants that had decided to not buy the product, we donated £1.20/1.38€ to Compensators*, which leads to a reduction in CO<sub>2</sub> emissions of 30.89 kg. </li>
-    <li>Therefore, we donated in total XXX € to Compensators*, as you can verify in the donation receipt above.</li>
+    <li>In total we donated XXX € to Compensators*, as you can verify in the donation receipt above.</li>
       <li>This leads to a reduction in CO<sub>2</sub> emissions by XXX kg. </li>
 </ul> 
 
