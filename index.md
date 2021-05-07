@@ -1,4 +1,4 @@
-<img align="right" height="80" src="https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg">
+<img align="right" height="80" src="https://github.com/Vanessa-project/Study/commit/1332a7e794fb326f982293d5a2439c848a6f318c#commitcomment-50520655">
 <img align="right"  height="58" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
 <br>
 <br>
