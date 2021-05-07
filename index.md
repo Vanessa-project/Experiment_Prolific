@@ -1,5 +1,5 @@
 <img align="right" height="80" src="https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg">
-<img align="right"  height="60" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
+<img align="right"  height="58" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
 <br>
 <br>
 
