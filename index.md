@@ -1,7 +1,9 @@
-# Verify the donation to Compensators* from the Prolific study: "Study on decision making"
+<img align="right" height="80" src="https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg">
+<img align="right"  height="55" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg">
+<br>
+<br>
 
-![](https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg)
-![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg)
+# Verify the donation to Compensators* from the Prolific study "Study on decision making"
 
 
 Thank you for participating in the study by Clara Ulmer from the University of Ulm and Vanessa Schoeller from the University of Regensburg.
