@@ -1,4 +1,4 @@
-# Verify our donation to Compensators* from the "Study on decision making"
+# Verify our donation to Compensators* from the Prolific study: "Study on decision making"
 
 ![](https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg)
 ![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg)
