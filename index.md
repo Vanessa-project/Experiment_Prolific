@@ -6,7 +6,7 @@
 # Verify the donation to Compensators* from the Prolific study "Study on decision making"
 
 
-Thank you for participating in the study by Clara Ulmer from Ulm University and Vanessa Schoeller from the University of Regensburg.
+Thank you for participating in the study by Clara Ulmer from Ulm University and Vanessa Schoeller from the University of Regensburg. With your participation in this study you support our research on the effectiveness of carbon labels on products
 
 
 On this page you find information about the total amount of carbon emissions that was eliminated by this study, as well as a donation receipt.
