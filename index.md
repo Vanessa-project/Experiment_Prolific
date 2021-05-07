@@ -9,7 +9,7 @@
 Thank you for participating in the study by Clara Ulmer from the University of Ulm and Vanessa Schoeller from the University of Regensburg.
 
 
-On this page you find information about how much carbon emissions were eliminated by this study, as well as a donation receipt.
+On this page you find information about the total amount of carbon emissions that was eliminated by this study, as well as a donation receipt.
 
 
 ## Donation receipt
