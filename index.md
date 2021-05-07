@@ -1,4 +1,4 @@
-# Verify our donation to Compensators* from the Study on decision making on Prolific
+# Verify our donation to Compensators* from the "Study on decision making"
 
 ![](https://github.com/Vanessa-project/Experiment_Prolific/raw/gh-pages/index.jpg)
 ![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.jpg)
@@ -18,8 +18,8 @@ Below you can see the donation receipt from Compensators*.
 
 ## Calculation of the donation amount
 
-600 paticipants took part in the experiment. 
-XX individuals decided to not buy the product, which resulted in a average donation of £1.20. 
-Therefore, we as the experimenter donated ... € to [Compensators*](https://www.compensators.org/), which you can also see in the donation receipt above.
+600 paticipants took part in the study.
+XX individuals decided to not buy the product, which resulted in a average donation of £1.20/1.38€. 
+Therefore, we as the experimenter donated XXX € to [Compensators*](https://www.compensators.org/), as you can see in the donation receipt above.
 This leads to a reduction in CO<sub>2</sub> emissions by XXX kg. 
 
