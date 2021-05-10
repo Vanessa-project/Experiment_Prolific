@@ -1,5 +1,5 @@
 
-<img align="right" height="60" src="https://github.com/Vanessa-project/Study/blob/bf095a6e42eae87876a3234ac5b715abee32b62d/logo_uulm.png"> <img align="right"  height="58" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.png">
+<img align="right" height="60" src="https://github.com/Vanessa-project/Study/raw/gh-pages/logo_uulm.png"> <img align="right"  height="58" src="https://github.com/Vanessa-project/Experiment/raw/gh-pages/logo_regensburg.png">
 
 
 <br>
