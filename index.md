@@ -26,7 +26,7 @@ Below you can see the donation receipt from <a target="_blank" rel="noopener nor
   <li>402 individuals decided not to buy the product.</li>
   <li>For every participant that had decided not to buy the product, we donated £1.20/1.40€ to Compensators*, which leads to a reduction in CO<sub>2</sub> emissions of about 30.80 kg. </li>
     <li>In total, we donated 562.80 € to Compensators*, as you can verify in the donation receipt above.</li>
-      <li>The total donation leads to a reduction in CO<sub>2</sub> emissions by 12,381 kg. </li>
+      <li>The total donation leads to a reduction in CO<sub>2</sub> emissions by 12.381 tons. </li>
 </ul> 
 
   
