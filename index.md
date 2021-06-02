@@ -18,7 +18,8 @@ On this page you find information about the total amount of carbon emissions tha
 
 Below you can see the donation receipt from <a target="_blank" rel="noopener noreferrer" href="https://www.compensators.org/en/compensators/">Compensators*</a>.
 
-![](https://github.com/Vanessa-project/Experiment/raw/gh-pages/monetary-donation.jpg)
+![](https://github.com/Vanessa-project/Study/blob/gh-pages/CompensatorsCertificate_1.pdf)
+
 
 ## Calculation of the donation amount
  <ul>
